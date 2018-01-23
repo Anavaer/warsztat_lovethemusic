@@ -1,2 +1,2 @@
 # warsztat_lovethemusic
-Projekt z warsztatów
+Projekt strony robiony podczas warsztatów na boot campie Coders Lab
